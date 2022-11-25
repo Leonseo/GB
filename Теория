@@ -161,3 +161,8 @@ class Person{
     public Person(String value){
           
         name=value;
+          }
+    String getName(){return name;
+    }
+}
+_______________________________________________________________________
